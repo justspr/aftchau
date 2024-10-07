@@ -2,6 +2,8 @@ criaCartao(
     'Matemática',
     'Questão 1: Qual a fórmula de bhaskara?',
     'R: x = [-b +|- raíz de (b^2 - 4ac)]/2a'
+)
+criaCartao(
     'Questão 2: Qual a soma dos ângulos internos de um triângulo?',
     'R: 180*'
 )
@@ -66,6 +68,6 @@ criaCartao(
 
 criaCartao(
     'Educação Financeira',
-    'O que é diversificação de investimentos e por que é recomendada?',
+    'Questão 20: O que é diversificação de investimentos e por que é recomendada?',
     'R: Diversificação de investimentos é a estratégia de distribuir seus recursos entre diferentes tipos de ativos (ações, títulos, imóveis, etc.) para reduzir o risco. É recomendada porque ajuda a minimizar perdas caso um investimento específico tenha um desempenho ruim.'
 )

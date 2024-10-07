@@ -10,5 +10,5 @@ function Criarcartão (categoria, pergunta, resposta){
         <p>resposta</p>
     </div>
     `
-    
+    container.appendChild(cartao)
     }
