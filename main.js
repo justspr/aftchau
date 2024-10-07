@@ -8,5 +8,7 @@ function Criarcartão (categoria, pergunta, resposta){
         <p>pergunta</p>
         <div class="resposta-caartao"></div>
         <p>resposta</p>
-    </div>`
+    </div>
+    `
+    
     }
