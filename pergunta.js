@@ -108,7 +108,7 @@ criaCartao(
 criaCartao(
     'Português',
     'Questão 19: Qual a diferença entre palavras oxítonas, paroxítonas e proparoxítonas?',
-    'R: Oxítonas: Têm a última sílaba tônica (ex.: café). Paroxítonas: Têm a penúltima sílaba tônica (ex.: fácil). Proparoxítonas: Têm a antepenúltima sílaba tônica e são sempre acentuadas (ex.: médico).
+    'R: Oxítonas: Têm a última sílaba tônica (ex.: café). Paroxítonas: Têm a penúltima sílaba tônica (ex.: fácil). Proparoxítonas: Têm a antepenúltima sílaba tônica e são sempre acentuadas (ex.: médico).'
 )
 
 criaCartao(
