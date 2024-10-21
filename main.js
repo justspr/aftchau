@@ -1,4 +1,4 @@
-function Criarcartão (categoria, pergunta, resposta){
+function criaCartão (categoria, pergunta, resposta){
     let container = document.getElementById('container');
     let cartao = document.getElementById('article');
     cartao.className= 'cartao';
